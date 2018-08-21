@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918734706240",
+    "firebase_url": "https://nterlien-3ec13.firebaseio.com",
+    "project_id": "nterlien-3ec13",
+    "storage_bucket": "nterlien-3ec13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918734706240:android:4818a11333b886d0",
+        "android_client_info": {
+          "package_name": "com.example.nterlien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918734706240-amh733tq1slh87j0trgarm10pqm7keum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nterlien",
+            "certificate_hash": "b500b268a33e83ad6bf43a54e28f44ec8604f22d"
+          }
+        },
+        {
+          "client_id": "918734706240-ogt47bgjjqaj6ttbicnoirdqk9s7cvta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdhPO6kQLtu1FEot-OKNcmCDSoaonQkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918734706240-ogt47bgjjqaj6ttbicnoirdqk9s7cvta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

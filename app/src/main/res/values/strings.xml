@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">NTerlien</string>
+    <string name="registration_success" />
+    <string name="input_error_password_length" />
+    <string name="input_error_password" />
+    <string name="input_error_email_invalid" />
+    <string name="input_error_email" />
+    <string name="input_error_name" />
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_About">about us</string>
+    <string name="Nbox">nbox is een door NTerlien opgezette studio voor het maken van
+    3d en 2d animatie we gebruiken Blender3d voor onze animaties.
+    de 3d en 2d animaties maken we voor VFX doeleinde maar ook proffesionele industriele doeleindes
+    wop dit moment zoeken wij mensen op onze website kun je meer vinden</string>
+    <string name="NJapp">NJapps.T is een door NTerlien opgezette studio voor het maken van
+    van apps voor android of ios van simpele handige huishoud apps naar apps voor grote banken.
+    NJapps.T bied mooie, goede en veilige kwaliteit apps voor een redelijke prijs. u kunt meer informatie vinden
+    op  hun website</string>
+    <string name="aboutUs">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+        Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+        In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+        Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
+        Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
+        consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+        Phasellus viverra nulla ut metus varius laoreet.
+        Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
+    </string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
